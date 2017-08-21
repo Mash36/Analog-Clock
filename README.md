@@ -1,2 +1,2 @@
 # Small Web Development Projects
-A simple digital analog clock using Javascript
+Small projects with JavaScript, HTML & CSS to build up cool stuff.
