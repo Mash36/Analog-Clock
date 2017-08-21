@@ -68,11 +68,3 @@ function reset() {
 testArea.addEventListener("keypress",start,false);
 testArea.addEventListener("keyup", spellCheck,false);
 resetButton.addEventListener("click",reset,false);
-
-// Set Interval
-// The setInterval() method of the WindowOrWorkerGlobalScope
-// mixin repeatedly calls a function or executes a code snippet,
-// with a fixed time delay between each call. It returns an
-// interval ID which uniquely identifies the interval, so you
-// can remove it later by calling clearInterval(). This method
-// is offered on the Window and Worker interfaces.
